@@ -1,0 +1,11 @@
+
+.booking_now_btn {
+    background-color: #C9453B;
+    color: #FFFFFF;
+    border-radius: 5px;
+    line-height: 24px;
+    font-weight: 400px;
+    font-family: 'Roboto';
+    font-size: 16px;
+    border: none;
+}

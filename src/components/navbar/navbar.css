@@ -1,0 +1,22 @@
+.logo {
+    margin-right: 211px;
+}
+.navbar_section {
+    padding-top: 35px;
+}
+.navbar {
+    list-style-type: none;
+    display: flex;
+    gap:50px;
+}
+.navbar .navbar_item_link {
+    color: #FFFFFF;
+    font-size: 18px;
+    font-family: 'Roboto';
+    text-decoration: none;
+    /* margin-right: 50px; */
+}
+
+.booking_now {
+    margin-left: 172px;
+}

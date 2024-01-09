@@ -1,0 +1,6 @@
+.header_section {
+    background-image: url('../../../public/assets/images/bg-image.png');
+    height: 900px;
+    background-size: cover;
+    background-position: center center;
+}
